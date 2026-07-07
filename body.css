@@ -442,8 +442,8 @@ span{
     gap: 3rem;
 }
 .testimonial-item{
-    min-height: 450px;
-    min-width: 450px;
+    min-height: 420px;
+    min-width: 420px;
     background: var(--bg-color);
     border: 0.3rem solid var(--bg-color);
     border-radius: 3rem;
