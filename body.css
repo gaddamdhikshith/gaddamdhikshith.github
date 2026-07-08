@@ -410,7 +410,7 @@ span{
     .testimonial-box{
     max-width: 400px;
     margin-left: 35px;
-}
+   }
 }
 @media (max-width: 617px){
     html{
