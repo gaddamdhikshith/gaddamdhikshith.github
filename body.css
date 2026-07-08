@@ -441,6 +441,9 @@ span{
     grid-template-columns: repeat(1,1fr);
     gap: 3rem;
 }
+.testimonial-box{
+    max-width: 100%;
+}
 .testimonial-item{
     min-height: 420px;
     min-width: 420px;
